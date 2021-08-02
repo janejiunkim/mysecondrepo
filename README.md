@@ -1,4 +1,5 @@
 # mysecondrepo
 This is my second repo
 
-Jane Kim
+Jane Kim 
+Fullerton, CA
